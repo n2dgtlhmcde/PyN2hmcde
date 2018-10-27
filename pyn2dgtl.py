@@ -3,9 +3,9 @@
 import time
 from tkinter import *
 
-screen = tkinter
+screen = tk()
 
 screen.title("The Py Co DrSZ CDE")
-screen.dimension("400x225")
+screen.geometry("400x225")
 
 screen.mainloop()
