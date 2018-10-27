@@ -1,7 +1,7 @@
 //  KLWD_NL .py code!!!
 
 import time
-from * import tkinter
+from tkinter import *
 
 screen = tkinter
 
